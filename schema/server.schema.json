@@ -1,0 +1,59 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Awesome MCP server entry",
+  "type": "object",
+  "required": [
+    "slug",
+    "name",
+    "category",
+    "description",
+    "homepage_url",
+    "license",
+    "status"
+  ],
+  "additionalProperties": true,
+  "properties": {
+    "slug": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "homepage_url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "repository_url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "package_url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "transports": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "tools": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "license": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    }
+  }
+}

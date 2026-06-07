@@ -1,0 +1,19 @@
+{
+  "slug": "example-server",
+  "name": "Example MCP Server",
+  "category": "developer-tools",
+  "description": "One sentence explaining what this MCP server lets clients do.",
+  "homepage_url": "https://example.com",
+  "repository_url": "https://github.com/example/example-mcp-server",
+  "package_url": "",
+  "transports": [
+    "stdio"
+  ],
+  "tools": [],
+  "license": "MIT",
+  "provider": {
+    "name": "Example",
+    "url": "https://example.com"
+  },
+  "status": "active"
+}
