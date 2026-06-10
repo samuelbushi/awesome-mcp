@@ -13,7 +13,11 @@ node scripts/generate-readme.mjs
 
 ## Directory
 
-No MCP servers have been submitted yet.
+### Data
+
+| Server | Description | Transport | Links |
+|---|---|---|---|
+| Xquik MCP Server | MCP server for exploring Xquik's X data API and running source-backed X data workflows. | streamable-http | [Homepage](https://docs.xquik.com/mcp/overview)<br>[GitHub](https://github.com/Xquik-dev/x-twitter-scraper) |
 
 ## Repository format
 

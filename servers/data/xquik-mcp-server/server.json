@@ -1,0 +1,22 @@
+{
+  "slug": "xquik-mcp-server",
+  "name": "Xquik MCP Server",
+  "category": "data",
+  "description": "MCP server for exploring Xquik's X data API and running source-backed X data workflows.",
+  "homepage_url": "https://docs.xquik.com/mcp/overview",
+  "repository_url": "https://github.com/Xquik-dev/x-twitter-scraper",
+  "package_url": "",
+  "transports": [
+    "streamable-http"
+  ],
+  "tools": [
+    "explore",
+    "xquik"
+  ],
+  "license": "MIT",
+  "provider": {
+    "name": "Xquik",
+    "url": "https://docs.xquik.com"
+  },
+  "status": "active"
+}
