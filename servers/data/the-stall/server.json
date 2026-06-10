@@ -1,0 +1,16 @@
+{
+  "slug": "the-stall",
+  "name": "The Stall",
+  "category": "data",
+  "description": "191 pay-per-call data tools via x402 on Base — stocks, crypto/DeFi, macro, SEC filings, compliance, global news, social momentum. No API keys.",
+  "homepage_url": "https://the-stall.intuitek.ai",
+  "repository_url": "https://github.com/thebrierfox/the-stall",
+  "transports": ["streamable-http"],
+  "tools": [
+    "us-stock-price", "crypto-fiat-price", "forex-rates", "options-chain",
+    "defi-yields", "sec-filing-intel", "insider-trades", "global-news-intel",
+    "social-momentum", "polymarket-intel", "sanctions-screening", "wallet-screener"
+  ],
+  "license": "MIT",
+  "status": "active"
+}

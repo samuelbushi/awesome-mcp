@@ -13,7 +13,11 @@ node scripts/generate-readme.mjs
 
 ## Directory
 
-No MCP servers have been submitted yet.
+### Data
+
+| Server | Description | Transport | Links |
+|---|---|---|---|
+| The Stall | 191 pay-per-call data tools via x402 on Base — stocks, crypto/DeFi, macro, SEC filings, compliance, global news, social momentum. No API keys. | streamable-http | [Homepage](https://the-stall.intuitek.ai)<br>[GitHub](https://github.com/thebrierfox/the-stall) |
 
 ## Repository format
 
