@@ -1,0 +1,17 @@
+{
+  "slug": "accint",
+  "name": "AccInt",
+  "category": "knowledge",
+  "description": "Local-first Work Model and MCP server for coding-agent memory across Claude Code, OpenCode, Codex, and Cursor. Shares a SQLite memory substrate and feeds verified outcomes back into future retrieval.",
+  "homepage_url": "https://accint.xyz/",
+  "repository_url": "https://github.com/maxbaluev/accreted-intelligence",
+  "transports": [
+    "stdio"
+  ],
+  "tools": [
+    "acc_retrieve",
+    "acc_act"
+  ],
+  "license": "Unspecified public glue / private core",
+  "status": "active"
+}
