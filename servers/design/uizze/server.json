@@ -4,7 +4,7 @@
   "category": "design",
   "description": "UI reference MCP for Codex, Claude Code, Cursor, and Copilot with 800,000+ real web and iOS screens, product-specific design contracts, implementation validation, audits, and screenshot critique.",
   "homepage_url": "https://uizze.com",
-  "repository_url": "https://github.com/aislon/uizze-mcp",
+  "repository_url": "https://github.com/uizze/uizze-mcp",
   "package_url": "https://uizze.com/mcp",
   "transports": [
     "streamable-http"
