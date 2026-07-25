@@ -21,6 +21,12 @@ node scripts/generate-readme.mjs
 | The Stall | 191 pay-per-call data tools via x402 on Base — stocks, crypto/DeFi, macro, SEC filings, compliance, global news, social momentum. No API keys. | streamable-http | [Homepage](https://the-stall.intuitek.ai)<br>[GitHub](https://github.com/thebrierfox/the-stall) |
 | Xquik MCP Server | MCP server for exploring Xquik's X data API and running source-backed X data workflows. | streamable-http | [Homepage](https://docs.xquik.com/mcp/overview)<br>[GitHub](https://github.com/Xquik-dev/x-twitter-scraper) |
 
+### Design
+
+| Server | Description | Transport | Links |
+|---|---|---|---|
+| UIZZE | UI reference MCP for Codex, Claude Code, Cursor, and Copilot with 800,000+ real web and iOS screens, product-specific design contracts, implementation validation, audits, and screenshot critique. | streamable-http | [Homepage](https://uizze.com)<br>[GitHub](https://github.com/uizze/uizze-mcp)<br>[Package](https://uizze.com/mcp) |
+
 ### Knowledge
 
 | Server | Description | Transport | Links |
