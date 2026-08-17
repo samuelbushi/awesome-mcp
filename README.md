@@ -33,7 +33,7 @@ node scripts/generate-readme.mjs
 
 | Server | Description | Transport | Links |
 |---|---|---|---|
-| UIZZE | UI reference MCP for Codex, Claude Code, Cursor, and Copilot with 800,000+ real web and iOS screens, product-specific design contracts, implementation validation, audits, and screenshot critique. | streamable-http | [Homepage](https://uizze.com)<br>[GitHub](https://github.com/uizze/uizze-mcp)<br>[Package](https://uizze.com/mcp) |
+| UIZZE | Hosted UI reference MCP for Codex, Claude Code, Cursor, and Copilot. Full access adds live search, product-specific design contracts, implementation validation, audits, and screenshot critique across 800,000+ real web and iOS screens; the free Skill and no-account check_ui_slop preview are separate. | streamable-http | [Homepage](https://uizze.com)<br>[GitHub](https://github.com/uizze/uizze)<br>[Package](https://uizze.com/mcp) |
 
 ### Knowledge
 
