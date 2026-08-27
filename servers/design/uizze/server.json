@@ -2,7 +2,7 @@
   "slug": "uizze",
   "name": "UIZZE",
   "category": "design",
-  "description": "Hosted UI reference MCP for Codex, Claude Code, Cursor, and Copilot. Full access adds live search, product-specific design contracts, implementation validation, audits, and screenshot critique across 800,000+ real web and iOS screens; the free Skill and no-account check_ui_slop preview are separate.",
+  "description": "Authenticated UI reference MCP for Codex, Claude Code, Cursor, and Copilot. It provides focused UI reference and hosted design-material search grounded in 800,000+ real web and iOS screens; the free anti-ui-slop Skill and GitHub Action are separate.",
   "homepage_url": "https://uizze.com",
   "repository_url": "https://github.com/uizze/uizze",
   "package_url": "https://uizze.com/mcp",
